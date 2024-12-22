@@ -1,0 +1,20 @@
+{
+  "name": "basic-informational-site-top-24",
+  "version": "1.0.0",
+  "description": "node project",
+  "homepage": "https://github.com/Jajecznik/Basic-Informational-Site-TOP-24#readme",
+  "bugs": {
+    "url": "https://github.com/Jajecznik/Basic-Informational-Site-TOP-24/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jajecznik/Basic-Informational-Site-TOP-24.git"
+  },
+  "license": "ISC",
+  "author": "Jajecznik",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
